@@ -1,0 +1,5 @@
+.ide*
+__pycache__
+*.pyc
+log*.txt
+ckpt*.pth.tar
